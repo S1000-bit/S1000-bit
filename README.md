@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/S1000-bit/S1000-bit/raw/main/github.gif" alt="Hi, I'm Sachin 👋 I'm a 🚀 Data Scientist 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
+
 <h1 align="center">Hi 👋, I'm Sachin Poojary</h1>
 <h3 align="center">I have a strong passion for Knowledge, and I'm constantly striving to improve and learn more about Artificial Intelligence.</h3>
 
