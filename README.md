@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/S1000-bit/S1000-bit/raw/main/gojo.gif" alt="Hi, I'm Sachin 👋 I'm a 🚀 Data Scientist 🚀 I ❤️ Happy Hardcore ❤️">
+  <img src="https://github.com/S1000-bit/S1000-bit/gojo.gif" alt="Hi, I'm Sachin 👋 I'm a 🚀 Data Scientist 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
 
 <h1 align="center">Hi 👋, I'm Sachin Poojary</h1>
