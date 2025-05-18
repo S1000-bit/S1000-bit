@@ -1,5 +1,6 @@
-
-  ![Image](https://github.com/user-attachments/assets/18dc9bc2-6160-4ed9-a6a0-911e4ef68048)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/18dc9bc2-6160-4ed9-a6a0-911e4ef68048" alt="Image" />
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Sachin Poojary</h1>
