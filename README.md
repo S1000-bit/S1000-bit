@@ -1,6 +1,6 @@
-<p align="center">
+
   ![Image](https://github.com/user-attachments/assets/18dc9bc2-6160-4ed9-a6a0-911e4ef68048)
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Sachin Poojary</h1>
 <h3 align="center">I have a strong passion for Knowledge, and I'm constantly striving to improve and learn more about Artificial Intelligence.</h3>
