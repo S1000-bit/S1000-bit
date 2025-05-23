@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Poojary</h1>
 <h3 align="center">I have a strong passion for Knowledge, and I'm constantly striving to improve and learn more about Artificial Intelligence.</h3>
 
-- 🌱 I’m currently learning **Azure DevOps**
+- 🌱 I’m currently learning **GitHub Actions**
 
 - 👨‍💻 All of my projects are available at [https://github.com/S1000-bit](https://github.com/S1000-bit)
 
